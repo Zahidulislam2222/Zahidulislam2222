@@ -1,0 +1,10 @@
+memory/
+CREDENTIALS.md
+PROJECT-DOSSIER.md
+tests/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.pre-commit-config.yaml
